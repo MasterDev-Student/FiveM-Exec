@@ -7,8 +7,8 @@
 
 ### Join Discord : https://discord.gg/xmm8ZkdX5b
 
-#### ![https://media.discordapp.net/attachments/1082183294617137224/1083162969514459217/Capture_decran_520.png)
-#### ![https://media.discordapp.net/attachments/1012749638635368551/1083874365411688540/image.png)
+#### ![a483d1e7956a2d1010b235d5bef846c6](https://media.discordapp.net/attachments/1082183294617137224/1083162969514459217/Capture_decran_520.png)
+#### ![a483d1e7956a2d1010b235d5bef846c6](https://media.discordapp.net/attachments/1012749638635368551/1083874365411688540/image.png)
 
 
 ## Credit [ Inka Web by ADM Community ]
